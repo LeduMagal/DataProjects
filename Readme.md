@@ -1,6 +1,6 @@
 Olá, ser humamo. 
 
-Sou Luis Eduardo Magalhaes, ou pode me chamar Ledu Magal. 
+Sou Luis Eduardo Magalhães, ou pode me chamar Ledu Magal. 
 
 Esse espaço é destinado para compartilhar meus projetos e aprendizados em data science.
 Aqui você pode ver minha evolucao ao longo do tempo, dar dicas, sugestões e tirar dúvidas.
